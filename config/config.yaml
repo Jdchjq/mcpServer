@@ -1,0 +1,5 @@
+weather:
+  baseUrl: https://pq4wcrxvgd.re.qweatherapi.com
+  sub: '2FTJXUXYD6' # 签发主体，项目Id
+  alg: 'EdDSA' # 签名算法
+  kid: 'CM58G44WGQ' # 凭据
